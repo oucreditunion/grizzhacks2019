@@ -1,3 +1,5 @@
 * text
 *.conf text eol=lf
 *.py text eol=lf
+*.pptx binary
+*.pdf binary
